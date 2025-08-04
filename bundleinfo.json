@@ -1,0 +1,16 @@
+{
+  "materials": {},
+  "prefabs": {
+    "above": "assets/prefabs/above.prefab",
+    "basecliff": "assets/prefabs/basecliff.prefab",
+    "sky": "assets/prefabs/sky.prefab",
+    "thunder": "assets/prefabs/thunder.prefab"
+  },
+  "bundleFiles": [
+    "F:/Games/Beat Saber VR/Beat Saber_Data/CustomWIPLevels/Rafales/bundleWindows2019.vivify"
+  ],
+  "bundleCRCs": {
+    "_windows2019": 3319378901
+  },
+  "isCompressed": false
+}
