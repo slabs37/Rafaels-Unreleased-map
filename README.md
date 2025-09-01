@@ -3,6 +3,8 @@ These are the project files and built level (in Output folder) for a Beat Saber 
 
 The mapping is a first draft with many many problems. The visuals have been worked on quite a bit but didn't look good enough to my eyes, i couldn't figure out what i can do to make them "good enough" so i've not finished it.
 
+Play with bloom turned off in graphics settings.
+
 # Why is it uploaded
 So others can learn from my projects and improve their own maps.
 
